@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @peedrosh
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Node.js & ReactJS.
+- 💞️ I’m looking to collaborate on JavaScript projects.
+- 📫 How to reach me ...
+  - I'm on [Linkedin](https://www.linkedin.com/in/peedrosh/)
